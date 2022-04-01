@@ -1,7 +1,8 @@
 # Advice App 
-Checkout the Live Demo: https://advice-new-app.herokuapp.com/
+* Simple Advice app made using HTML, CSS, JavaScript, ReactJS
+* Checkout the Live Demo: https://advice-new-app.herokuapp.com/
 
-# Screenshots of Project:
+# Screenshots of Advice App Project:
 ![advice-1](https://user-images.githubusercontent.com/63365261/161233836-85a9fe2f-8a0f-4141-a6ba-6bfdfe9c4721.png)
 
 
